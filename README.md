@@ -1,8 +1,3 @@
-# Exploratory-Data-Science-Project-2
-Week 2 Project for Coursera Exploratory Data Science Week 4
-Exploratory Data Analysis Project
-#Assignment 2
-
 Introduction
 Fine particulate matter (
 ) is an ambient air pollutant for which there is strong evidence that it is harmful to human health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality standards for fine PM and for tracking the emissions of this pollutant into the atmosphere. Approximatly every 3 years, the EPA releases its database on emissions of 
@@ -27,6 +22,7 @@ The zip file contains two files:
 ## 16 09001 10200401  PM25-PRI     2.036 POINT 1999
 ## 20 09001 10200504  PM25-PRI     0.388 POINT 1999
 ## 24 09001 10200602  PM25-PRI     1.490 POINT 1999
+
 fips: A five-digit number (represented as a string) indicating the U.S. county
 SCC: The name of the source as indicated by a digit string (see source code classification table)
 Pollutant: A string indicating the pollutant
